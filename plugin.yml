@@ -97,7 +97,7 @@ permissions:
       description: "Allows player use spawn command"
       default: true
      essentialstp.command.wild:
-      description: "Allows player to teleport to a random location in world"
+      description: "Allows player to teleport to a random location in wild"
       default: true
      essentialstp.command.back:
       description: "Allows player go back to their last death location"
